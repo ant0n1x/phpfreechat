@@ -9,3 +9,4 @@ server/data/*
 .directory
 jquery.phpfreechat.css
 jquery.phpfreechat.min.css
+composer.json
